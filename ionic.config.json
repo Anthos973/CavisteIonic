@@ -1,0 +1,15 @@
+{
+  "name": "CavisteIonic",
+  "app_id": "",
+
+  "proxies": [
+
+  	{
+  		"path":"/api",
+  		"proxyUrl":"http://api.ionic.dev/api"
+  	}
+
+
+  ]
+}
+
